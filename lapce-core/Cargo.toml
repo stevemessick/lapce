@@ -77,7 +77,7 @@ tree-sitter-sql = { git = "https://github.com/oknozor/tree-sitter-sql", rev = "1
 tree-sitter-svelte = { git = "https://github.com/Himujjal/tree-sitter-svelte", rev = "52e122ae68b316d3aa960a0a422d3645ba717f42", optional = true }
 tree-sitter-swift = { version = "0.3.4", optional = true }
 tree-sitter-toml = { version = "0.20.0", optional = true }
-tree-sitter-typescript = { version = "0.20.0", optional = true }
+tree-sitter-typescript = { version = "0.20.2", optional = true }
 tree-sitter-vue = { version = "0.0.3", optional = true }
 tree-sitter-wgsl = { git = "https://github.com/szebniok/tree-sitter-wgsl", rev = "272e89ef2aeac74178edb9db4a83c1ffef80a463", optional = true }
 tree-sitter-xml = { git = "https://github.com/RenjiSann/tree-sitter-xml", rev = "422528a43630db6dcc1e222d1c5ee3babd559473", optional = true }
